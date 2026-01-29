@@ -1,2 +1,2 @@
-# netlify_function
-netlify_function
+# api
+Netlify Serverless API
